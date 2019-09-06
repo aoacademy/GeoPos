@@ -10,5 +10,5 @@ In this project, we intend to implement a system that can accurately determine t
   <img width="500" height="300" src="https://ja-si.com/wp-content/uploads/2016/09/TechnologyExplaination-768x493.png">
 </p
 <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/23232055/64449151-8f858280-d0f4-11e9-9bcc-d22a6d768da8.PNG">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/23232055/64449151-8f858280-d0f4-11e9-9bcc-d22a6d768da8.PNG">
 </p
