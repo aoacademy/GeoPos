@@ -9,3 +9,6 @@ In this project, we intend to implement a system that can accurately determine t
 <p align="center">
   <img width="500" height="300" src="https://ja-si.com/wp-content/uploads/2016/09/TechnologyExplaination-768x493.png">
 </p
+<p align="center">
+  <img width="500" height="300" src="https://ja-si.com/wp-content/uploads/2016/09/TechnologyExplaination-768x493.png">
+</p
